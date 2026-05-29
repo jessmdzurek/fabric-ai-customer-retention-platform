@@ -58,8 +58,6 @@ Avoided language:
 
 ## High-Level Architecture
 
-## High-Level Architecture
-
 ```mermaid
 flowchart TD
     A["Online Retail CSV<br/>Historical Transaction Data"]
